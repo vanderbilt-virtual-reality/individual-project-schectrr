@@ -19,4 +19,3 @@ Game must be played with sound on.
 
 ## Authors
 Rebecca Schecter
-
