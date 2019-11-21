@@ -12,7 +12,7 @@ Unity version 2019.2.3f1
 Game must be played with sound on. 
 
 ## Example of Test
- [Screen Capture](google.com)
+ [Screen Capture](https://drive.google.com/file/d/1TJh7VPwlq67j9Grvxc-SFuUAf2mheD-t/view?usp=sharing)
  
 ## Installation
   [Windows Build](google.com)
