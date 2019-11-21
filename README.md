@@ -16,6 +16,9 @@ Game must be played with sound on.
  
 ## Installation
   [Windows Build](https://drive.google.com/drive/folders/1Ni3y9_9DqF1F6YT0MEOIaKKCy9fiIPc2?usp=sharing)
+  
+ ## Project Components
+  [Zip Folder](https://drive.google.com/file/d/1Umj6eF4MlfSAML1MUjoUpHOMwmK8FKKy/view?usp=sharing)
 
 ## Authors
 Rebecca Schecter
