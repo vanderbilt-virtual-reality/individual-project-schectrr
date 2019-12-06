@@ -7,7 +7,7 @@
  A drawback of social stories in virtual reality comes down to the safety of VR for children. This program can further develop to provide time out sessions so that a child is restricted to prevent dizziness or mental fatigue. More research needs to be done to ensure no major damages to the child user in virtual reality. 
 
 ## Getting Started
-Unity version 2019.2.3f1
+Unity version 2019.2.8f1
 
 Game must be played with sound on. 
 
